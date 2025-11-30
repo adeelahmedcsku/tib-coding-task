@@ -1,0 +1,9 @@
+D:\TIB Task\java-task-main\src\main\java\eu\tib\App.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\controller\Operations.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\dto\AuthorDto.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\dto\PublicationDto.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\model\Author.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\model\Publication.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\model\Report.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\util\CsvGenerator.java
+D:\TIB Task\java-task-main\src\main\java\eu\tib\wrapper\ReportWrapper.java

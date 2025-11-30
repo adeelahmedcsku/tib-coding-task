@@ -1,0 +1,10 @@
+eu\tib\controller\Operations.class
+eu\tib\model\Author.class
+eu\tib\dto\PublicationDto.class
+eu\tib\App.class
+eu\tib\util\CsvGenerator.class
+eu\tib\dto\AuthorDto.class
+eu\tib\model\Publication.class
+eu\tib\model\Report.class
+eu\tib\controller\Operations$1.class
+eu\tib\wrapper\ReportWrapper.class
