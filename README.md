@@ -74,6 +74,17 @@ Used as the build and dependency management tool.
 ```xml
 <maven.compiler.source>17</maven.compiler.source>
 <maven.compiler.target>17</maven.compiler.target>
+```
+
+### Jackon
+```xml
+<dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.20.0</version>
+        </dependency>
+```
+
 
 # Interview Task
 
