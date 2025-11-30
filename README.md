@@ -36,6 +36,44 @@ Die Javaklasse eu.tib.App enthält die Methode „main“.
 
 
 Hinweis: Ihre Lösung muss eine gezippte Kopie des Codes/Projekts und der Ausgabedateien enthalten.
+# 📊 Java Data Processing Toolkit  
+High-performance JSON parsing, transformation, and CSV generation using Java 17, Streams API, and Jackson.
+
+<p align="left">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Java-17-blue.svg" />
+  <img src="https://img.shields.io/badge/Build-Maven-orange.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/Status-Active-success.svg" />
+  <img src="https://img.shields.io/badge/Jackson-2.20.0-yellow.svg" />
+</p>
+
+---
+
+## 🚀 Overview
+
+This project demonstrates how to process complex JSON data structures and export them into CSV format using:
+
+- **Java 17**
+- **Jackson Databind**
+- **Java Streams API**
+- **Maven**
+
+It includes modular utility classes such as `CsvGenerator`, `Operations`, and POJO models like `Report` and `Author`.
+
+---
+
+## 🧩 Technologies Used
+
+### ✔ Java 17  
+Leverages modern Stream APIs (`java.util.stream`) for efficient transformation and grouping operations.
+
+### ✔ Maven  
+Used as the build and dependency management tool.
+
+```xml
+<maven.compiler.source>17</maven.compiler.source>
+<maven.compiler.target>17</maven.compiler.target>
 
 # Interview Task
 
