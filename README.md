@@ -36,7 +36,7 @@ Die Javaklasse eu.tib.App enthält die Methode „main“.
 
 
 Hinweis: Ihre Lösung muss eine gezippte Kopie des Codes/Projekts und der Ausgabedateien enthalten.
-# 📊 Java Data Processing Toolkit  
+# 📊Developer: Guide Java Data Processing Toolkit  
 High-performance JSON parsing, transformation, and CSV generation using Java 17, Streams API, and Jackson.
 
 <p align="left">
@@ -49,6 +49,7 @@ High-performance JSON parsing, transformation, and CSV generation using Java 17,
 </p>
 
 ---
+Jackson: https://www.youtube.com/watch?v=Q0ajO-vqFiw
 
 ## 🚀 Overview
 
